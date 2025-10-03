@@ -1,4 +1,161 @@
 {
   "project": "Fugger Gallery",
-  "images": []
+  "images": [
+    {
+      "id": "01",
+      "title": "Lil Fugger",
+      "file": "01_Lil_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/01_Lil_Fugger.jpg"
+    },
+    {
+      "id": "02",
+      "title": "Paper Fugger",
+      "file": "02_Paper_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/02_Paper_Fugger.jpg"
+    },
+    {
+      "id": "03",
+      "title": "Funny Fugger",
+      "file": "03_Funny_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/03_Funny_Fugger.jpg"
+    },
+    {
+      "id": "04",
+      "title": "Lucky Fugger",
+      "file": "04_Lucky_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/04_Lucky_Fugger.jpg"
+    },
+    {
+      "id": "05",
+      "title": "DeFi Fugger",
+      "file": "05_DeFi_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/05_DeFi_Fugger.jpg"
+    },
+    {
+      "id": "06",
+      "title": "Bitcoin Fugger",
+      "file": "06_Bitcoin_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/06_Bitcoin_Fugger.jpg"
+    },
+    {
+      "id": "07",
+      "title": "Trading Fugger",
+      "file": "07_Trading_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/07_Trading_Fugger.jpg"
+    },
+    {
+      "id": "08",
+      "title": "Rich Fugger",
+      "file": "08_Rich_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/08_Rich_Fugger.jpg"
+    },
+    {
+      "id": "09",
+      "title": "Mega Fugger",
+      "file": "09_Mega_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/09_Mega_Fugger.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Diamond Fugger",
+      "file": "10_Diamond_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/10_Diamond_Fugger.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Golden Fugger",
+      "file": "11_Golden_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/11_Golden_Fugger.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Mother Fugger",
+      "file": "12_Mother_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/12_Mother_Fugger.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Holy Fugger",
+      "file": "13_Holy_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/13_Holy_Fugger.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Atomic Fugger",
+      "file": "14_Atomic_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/14_Atomic_Fugger.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Bank Fugger",
+      "file": "15_Bank_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/15_Bank_Fugger.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Legendary Fugger",
+      "file": "16_Legendary_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/16_Legendary_Fugger.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Galaxy Fugger",
+      "file": "17_Galaxy_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/17_Galaxy_Fugger.jpg"
+    },
+    {
+      "id": "18",
+      "title": "God Fugger",
+      "file": "18_God_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/18_God_Fugger.jpg"
+    },
+    {
+      "id": "19",
+      "title": "HODL Fugger",
+      "file": "19_HODL_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/19_HODL_Fugger.jpg"
+    },
+    {
+      "id": "20",
+      "title": "WAGMI Fugger",
+      "file": "20_WAGMI_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/20_WAGMI_Fugger.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Shitcoin Fugger",
+      "file": "21_Shitcoin_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/21_Shitcoin_Fugger.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Rug Fugger",
+      "file": "22_Rug_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/22_Rug_Fugger.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Whale Fugger",
+      "file": "23_Whale_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/23_Whale_Fugger.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Moon Fugger",
+      "file": "24_Moon_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/24_Moon_Fugger.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Ugly Fugger",
+      "file": "25_Ugly_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/25_Ugly_Fugger.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Ginger Fugger",
+      "file": "26_Ginger_Fugger.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/fuggermeme-ux/fugger-gallery@main/26_Ginger_Fugger.jpg"
+    }
+  ]
 }
